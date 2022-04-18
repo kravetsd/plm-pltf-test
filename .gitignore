@@ -65,3 +65,5 @@ goreleaser-downloads/
 goreleaser-prebuilt/
 
 __pycache__
+/state/
+/state/.pulumi/stacks/
